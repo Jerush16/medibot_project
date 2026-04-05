@@ -39,20 +39,6 @@ Medibot analyzes user symptoms using trained machine learning models and provide
 
 ---
 
-## 📂 Project Structure
-
-medibot-ai-health-assistant/
-│
-├── app.py
-├── train_model_blood.py
-├── train_model_disease.py
-├── train_model_symptom.py
-├── data/
-├── requirements.txt
-└── README.md
-
----
-
 ## ⚙️ Setup & Run
 
 ### Install dependencies
