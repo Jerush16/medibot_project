@@ -96,7 +96,3 @@ Useful for providing initial medical guidance in rural areas, emergencies, or lo
 * Voice interaction
 
 ---
-
-## 📸 Demo
-
-(Add screenshots or video link here)
